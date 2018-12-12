@@ -1,0 +1,7 @@
+Package: kwb.barplot
+Maintainer: Hauke Sonnenberg <hauke.sonnenberg@kompetenz-wasser.de>
+Author: Hauke Sonnenberg
+Version: 0.2.0
+License: GPL
+Title: Evaluation of MIA-CSO data with R
+Description: Barplot function that can arrange bars along the x axis.
